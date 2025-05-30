@@ -27,7 +27,7 @@ const allowedOrigins = [
   process.env.FRONTEND_URL && process.env.FRONTEND_URL.replace(/\/$/, ''),
   'http://localhost:3000',
   'http://localhost:3001',
-  'https://vibe-coders-flame.vercel.app',
+  'https://vibe-coders-livid.vercel.app',
   'https://vibe-coders.onrender.com'
 ];
 
